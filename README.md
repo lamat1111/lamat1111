@@ -6,15 +6,21 @@ Building privacy-first, decentralized software and community tools.
 
 ### Quilibrium
 
+A decentralized, privacy-first network for building and running applications.
+
 - [Website](https://quilibrium.com)
 - [GitHub organization](https://github.com/QuilibriumNetwork)
 
 ### Quilibrium Community
 
+An independent community hub for learning, collaboration, and open-source tools around Quilibrium.
+
 - [Website](https://quilibrium.one)
 - [GitHub organization](https://github.com/Quilibrium-Community)
 
 ### Quorum
+
+A fully private, decentralized group messenger powered by Quilibrium.
 
 - [Website](https://www.quorummessenger.com)
 - [Desktop repository](https://github.com/QuilibriumNetwork/quorum-desktop)
@@ -23,6 +29,8 @@ Building privacy-first, decentralized software and community tools.
 ## Solo work
 
 ### Quily
+
+An AI knowledge assistant for the Quilibrium ecosystem.
 
 - [Website](https://quily.quilibrium.one)
 - [GitHub repository](https://github.com/Quilibrium-Community/quily)
