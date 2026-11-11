@@ -1,4 +1,4 @@
-# Lamat
+# LaMat
 
 Building privacy-first, decentralized software and community tools.
 
