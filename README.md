@@ -1,16 +1,28 @@
-## Hi there 👋
+# Lamat
 
-<!--
-**lamat1111/lamat1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building privacy-first, decentralized software and community tools.
 
-Here are some ideas to get you started:
+## Projects I collaborate on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quilibrium
+
+- [Website](https://quilibrium.com)
+- [GitHub organization](https://github.com/QuilibriumNetwork)
+
+### Quilibrium Community
+
+- [Website](https://quilibrium.one)
+- [GitHub organization](https://github.com/Quilibrium-Community)
+
+### Quorum
+
+- [Website](https://www.quorummessenger.com)
+- [Desktop repository](https://github.com/QuilibriumNetwork/quorum-desktop)
+- [Native repository](https://github.com/QuilibriumNetwork/quorum-mobile)
+
+## Solo work
+
+### Quily
+
+- [Website](https://quily.quilibrium.one)
+- [GitHub repository](https://github.com/Quilibrium-Community/quily)
